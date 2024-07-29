@@ -1,0 +1,12 @@
+[package]
+name = "disk-name"
+version = "0.1.0"
+edition = "2021"
+description = "A utility crate to get all existing disk letters"
+repository = "https://github.com/ValuONE/disk-name"
+keywords = ["letter", "disk", "harddrive", "disk-name", "drive"]
+authors = ["Valentin Piendl"]
+categories = ["filesystem"]
+license = "MIT"
+
+[dependencies]
